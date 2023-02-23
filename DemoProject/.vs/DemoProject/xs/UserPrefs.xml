@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{99CBA4E2-657F-4249-A52A-FA44C38D63CF}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_4_API_5.7in" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DemoProject.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.Pixel_4_API_5.7in" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DemoProject.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.64FBFCBE-0410-4D03-ACDE-78DBCBE1BB99" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoProject/LoginPage.xaml">
+    <Files>
+      <File FileName="DemoProject/QuotesPage.xaml.cs" Line="17" Column="6" />
+      <File FileName="DemoProject/LoginPage.xaml" Line="8" Column="43" />
+      <File FileName="DemoProject/LoginPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="DemoProject/App.xaml.cs" Line="12" Column="1" />
+      <File FileName="DemoProject/Demo/VideosEncoder.cs" Line="5" Column="2" />
+      <File FileName="DemoProject/Demo/Program.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemoProject" expanded="True">
+            <Node name="DemoProject" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Demo" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="LoginPage.xaml" expanded="True" />
+              <Node name="QuotesPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
